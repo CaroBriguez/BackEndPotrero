@@ -9,7 +9,7 @@
     <h1> Primera Pagina</h1>
 <?php
 // Ejercicio 1,2
-    $saludo = "Hola Mundo. <br><br>";
+    $saludo = "HOLA MUNDO. <br><br>";
     echo $saludo;
 //Ejercicio 3 operaciones suma
     $pan = 700;
@@ -50,8 +50,6 @@
     $perimetroC = M_PI * $diametro;
 
     echo "El AREA DEL CIRCULO ES DE: $areaC, Y SU PERIMETRO ES DE $perimetroC <br> <br> ";
-
-    
 
 ?>
 </body>
