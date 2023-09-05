@@ -6,7 +6,7 @@
     <title>PHP</title>
 </head>
 <body>
-    <h1> Primera Pagina</h1>
+    <h1> MI Primera Pagina</h1>
 <?php
 // Ejercicio 1,2
     $saludo = "HOLA MUNDO. <br><br>";
